@@ -12,7 +12,7 @@ public class Swap2Numbers {
 		number1=number2;
 		number2=tmp;
 		System.out.println("\nNow SWAPPING NUMBERS\n");
-		System.out.println("\nAfter swappping numbers are :\n number1=> "+number1+"\n number2=> "+number2);
+		System.out.println("\n After swappping numbers are :\n number1=> "+number1+"\n number2=> "+number2);
 		
 
 	}
