@@ -11,7 +11,7 @@ public class CheckingDuplicateInArray {
 			
 			flag=false;
 			
-			for(int j=0;j<array.length;j++) {
+			for(int j=i+1;j<array.length;j++) {
 				
 				if(i!=j) {
 				
